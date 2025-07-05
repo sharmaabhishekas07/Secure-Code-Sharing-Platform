@@ -19,8 +19,7 @@ A secure and feature-rich Spring Boot application for sharing code snippets with
 - ⭐ Star / Like code snippets
 - 📊 Admin dashboard via API
 - 📦 REST APIs with Swagger
-- 🧪 Unit + Integration Testing
-
+  
 ---
 
 ## 📁 Tech Stack
@@ -30,11 +29,5 @@ A secure and feature-rich Spring Boot application for sharing code snippets with
 - **Spring Security (JWT)**
 - **Spring Data JPA + PostgreSQL**
 - **Lombok + MapStruct**
-- **JUnit 5 + Mockito + MockMVC**
-- **Swagger / OpenAPI**
-- **Docker (optional)**
-
----
-
-## 📂 Project Structure
+- **Kafka
 
